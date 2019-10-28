@@ -1,0 +1,47 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Nitin",
+            "surname": "Sharma",
+            "education": {
+                "higerEducation": "B.E. Comps",
+                "score": 72
+            },
+            "Experience": [
+                {
+                    "company": "BookMyShow",
+                    "years": 3.5
+                },
+                {
+                    "company": "Quantiphi",
+                    "years": 1
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Girish",
+            "surname": "Makhija",
+            "education": {
+                "higerEducation": "P.H.D",
+                "score": 70
+            }
+        },
+        {
+            "id": 1,
+            "name": "Jacky",
+            "surname": "watwani",
+            "education": {
+                "higerEducation": "M. Com",
+                "score": 90
+            },
+            "Experience": [
+                {
+                    "company": "Facbook",
+                    "years": 3
+                }
+            ]
+        }
+    ]
+}
