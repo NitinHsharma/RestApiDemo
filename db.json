@@ -1,47 +1,35 @@
 {
-    "students": [
-        {
-            "id": 1,
-            "name": "Nitin",
-            "surname": "Sharma",
-            "education": {
-                "higerEducation": "B.E. Comps",
-                "score": 72
-            },
-            "Experience": [
-                {
-                    "company": "BookMyShow",
-                    "years": 3.5
-                },
-                {
-                    "company": "Quantiphi",
-                    "years": 1
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "name": "Girish",
-            "surname": "Makhija",
-            "education": {
-                "higerEducation": "P.H.D",
-                "score": 70
-            }
-        },
-        {
-            "id": 1,
-            "name": "Jacky",
-            "surname": "watwani",
-            "education": {
-                "higerEducation": "M. Com",
-                "score": 90
-            },
-            "Experience": [
-                {
-                    "company": "Facbook",
-                    "years": 3
-                }
-            ]
+   login: {
+    "jToken": "d8c3278a83c82ba.73586930e268c6f8d7377924d781b64d8c259986df35d56b68900d550a3481e831188710c95f9c50d74d84b0ea9116fe83f0d22b7a6eab2a82f429debaf3aeea445fbb41c1e3ab5eb89b220876f7d406908c6552f3569ccc444e9d64ae78cdbfd5823ad885106553fbc8f439647e9599839610c1b96a5a0fb285767f245baa68611d",
+    "sessionAttributes": {
+        "user": {
+            "commonName": "Nitin Sharma",
+            "mail": "nitin.sharma@gmail.com",
+            "mobile": "++917498373788",
+            "preferredLocale": "en-US",
+            "ssoLevel": "20",
+            "subscriberId": "10051939393",
+            "uid": "nitinsharma-25",
+            "unique": "e1c56592-eb35-b95-ef8df7243f8a"
         }
-    ]
+    },
+    "ssoLevel": "20",
+    "ssoToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1bmllZjhkZjcyNDNmOGEiLCJ1c2VyVHlwZSI6IlJJTHBlcnNvbiIsImF1dGhMZXZlbCI6IjIwIiwiZGV2aWNlSWQiOiM4MjcwYjc1NTdhMjdiZDM5NjJkNGZmNGJhYzM1NzQ3YzQwYjdkMWJkNTJiZWQ5MThjZjc1ODQ3ODM5YThhNTU5MDE2MmEwNDdlNzc3ZDZhMzJhODA3N2NkNDY3ZDgzODI0YzU1MDQ0Yj3ZmYtNDg0MC04OWQ3LTkwZTJiYTgyYzYyNiIsImlhdCI6MTU5NzMyMTE5NH0.6VIM03XpdG_Kba7enwsU_k6cmV6r-QBQU_AzNhAv7Pg",
+    "lbCookie": "1"
+   
+   },
+    login1: {
+    "correlationId": "9c3b6030-dd5f-1763979",
+    "otpCreationTimestamp": "2020-08-13T12:22:10.099Z",
+    "otpExpiryTimestamp": "2020-08-13T12:37:10.099Z",
+    "otpDuration": "15",
+    "remainingOtpAttempts": 1
+    },
+    
+    login2: {
+        
+    "correlationId": "9c3b6030-dd5f-11e1763979",
+    "correlationIdValidity": "2020-08-13T19:52:10+0000"
+   
+    }
 }
